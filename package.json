@@ -1,0 +1,29 @@
+{
+  "name": "Portfolio-Homepage",
+  "version": "1.0.0",
+  "description": "Nguyen Viet Phuoc's Website",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "start": "next start",
+    "prettier": "prettier --write .",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "Nguyen Viet Phuoc",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "framer-motion": "^10.12.16",
+    "next": "^13.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-next": "^13.4.4",
+    "prettier": "^2.8.8"
+  }
+}
